@@ -1,4 +1,4 @@
-# Categorize Numbers as Even or Odd
+# Check any number positive or negative and even or odd
 
 This program checks any number positive or negative and even or odd using conditions and different operators.
 
